@@ -237,7 +237,7 @@ GenerateClassCluster=0
 DocumentUniqueId=XRBUFFBD
 
 [Document12]
-DocumentPath=UARC_Sensor.PcbDoc
+DocumentPath=UARC_Sensor_Reference.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
