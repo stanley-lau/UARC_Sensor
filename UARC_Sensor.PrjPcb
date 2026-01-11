@@ -237,7 +237,7 @@ GenerateClassCluster=0
 DocumentUniqueId=XRBUFFBD
 
 [Document12]
-DocumentPath=UARC_Sensor_Reference.PcbDoc
+DocumentPath=UARC_Sensor_Cedric.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -251,7 +251,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=JQVVTIRM
+DocumentUniqueId=JNJLTCUR
 
 [Configuration1]
 Name=Sources
